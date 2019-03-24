@@ -6,3 +6,4 @@ Use the different routes to either see a list of available users on /api/friends
 
 The algorithm will include you as an user and match your profile with someone that has similar likes as you!
 
+You can access this app at the following link https://immense-sea-42698.herokuapp.com/.
