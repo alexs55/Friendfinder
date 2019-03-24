@@ -36,5 +36,4 @@ module.exports = function (app) {
     res.send(selected);
     friends.push(newfriend)
   });
-
 };
